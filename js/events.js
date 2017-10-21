@@ -18,5 +18,6 @@ function submitIt() {
 
 $(document).ready(function(){
   getIt()
-  frameIT()
+  frameIt()
+  submitIt()
 });
