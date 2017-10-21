@@ -25,8 +25,8 @@ function pressIt(){
 });
 
 $(document).ready(function(){
-  getIt()
-  frameIt()
-  submitIt()
-  pressIt()
+  getIt();
+  frameIt();
+  submitIt();
+  pressIt();
 });
